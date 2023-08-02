@@ -37,4 +37,4 @@
 <br>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duarteeigor&repo=duarteeigor&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
