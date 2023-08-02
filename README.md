@@ -12,6 +12,8 @@
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=duarteeigor&count_private=true&theme=gruvbox_light) <br>
  ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteeigor&layout=compact&theme=gruvbox_light)
+
+ 
  
 
 <div style="display: inline-block">
@@ -31,3 +33,8 @@
   <a href="https://www.linkedin.com/in/igor-duarte-846626270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="mailto:duarteigor562@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </div>
+
+<br>
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duarteeigor&repo=duarteeigor&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
