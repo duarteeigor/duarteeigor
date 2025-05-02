@@ -1,7 +1,7 @@
 ## Opa! Me chamo Igor Duarte
 
 - 👽 Futuro Full-stack Developer
-- 📖 Estudando atualmente DOM/React.js na Cubos Academy
+- 📖 Estudando atualmente React/Typescript na Cubos Academy
 - 🧠 Principais Linguagens: JS, HTML, CSS
 - 💞️ Adoro video-games, astronomia e qualquer coisa relacionada a tecnologia <br><br><br>
 
