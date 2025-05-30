@@ -10,7 +10,6 @@
 
 ##
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=duarteeigor&count_private=true&theme=gruvbox_light) <br>
  ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteeigor&layout=compact&theme=gruvbox_light)
 
  
