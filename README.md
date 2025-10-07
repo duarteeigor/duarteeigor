@@ -1,7 +1,7 @@
 ## Opa! Me chamo Igor Duarte
 
 - 👽 Frontend Developer
-- 📖 Aprofundando meus estudos em React/Typescript na Cubos Academy
+- 📖 Aprofundando meus estudos em Next Pelo curso do MatheusFraga
 - 🧠 Principais Linguagens: JS, HTML, CSS, TS
 - 💞️ Adoro video-games, astronomia e qualquer coisa relacionada a tecnologia <br><br><br>
 
